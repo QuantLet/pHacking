@@ -1,0 +1,15 @@
+
+Name of Quantlet : phacking
+
+Published in :  'Dei ex machinis or the attractiveness of p-hacking'
+
+Description : 'Data visualisation for phacking talk'
+
+Keywords : phacking, data, noise, noisy data, hacking, hack, high frequency data, cryptocurrency
+
+See also : quantlet
+ 
+Author : 'Ilyas Agakishiev, Wolfgang Härdle'
+
+Submitted : 'Mon, May 25 2020'
+
