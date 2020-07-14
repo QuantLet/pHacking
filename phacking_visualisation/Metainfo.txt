@@ -9,7 +9,7 @@ Keywords : phacking, data, noise, noisy data, hacking, hack, high frequency data
 
 See also : quantlet
  
-Author : 'Ilyas Agakishiev, Wolfgang Härdle'
+Author : 'Ilyas Agakishiev, Raphael Reule, Wolfgang Härdle'
 
 Submitted : 'Mon, May 25 2020'
 
